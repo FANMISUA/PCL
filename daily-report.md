@@ -44,6 +44,8 @@ Med-Gemini 是基于 Gemini 架构开发的多模态大型语言模型（LLMs）
 - 部分多模态任务依赖上下文提示，对实际临床部署仍需进一步验证。
 - 论文未提供详细的模型参数和推理机制细节，外部复现和验证较难。
 
+### 教程
+
 ## 📝 明日计划
 
 - None
@@ -51,3 +53,20 @@ Med-Gemini 是基于 Gemini 架构开发的多模态大型语言模型（LLMs）
 ## 💡 思考/总结
 
 - None
+
+# Daily Report（2025-06-06）
+
+## 🎯 基因会议
+
+### 华大知识图谱
+
+- **服务器**：
+  - 192.168.237.73
+  - fdong （fdong123456）
+  - 用法：Condor 集群使用指南
+- /mnt/net1/jrchen/1KG/ref_gatk
+  - preporcess_bert.py
+  - preprocess_data.py
+- /mnt/net1/jrchen/ECOLE_reproduction/ECOLE_Training/
+
+### 病原数据检测
