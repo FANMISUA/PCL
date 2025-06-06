@@ -52,7 +52,6 @@ Med-Gemini 是基于 Gemini 架构开发的多模态大型语言模型（LLMs）
 
 - **服务器**：
   - 192.168.237.73
-  - fdong （fdong123456）
   - 用法：[Condor 集群使用指南](Condor 集群使用指南.md)
 - /mnt/net1/jrchen/1KG/ref_gatk
   - preporcess_bert.py
