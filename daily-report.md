@@ -52,10 +52,16 @@ Med-Gemini 是基于 Gemini 架构开发的多模态大型语言模型（LLMs）
 
 - **服务器**：
   - 192.168.237.73
-  - 用法：[Condor 集群使用指南](Condor 集群使用指南.md)
+  - 用法：[Condor 集群使用指南](CondorGuide.md)
 - /mnt/net1/jrchen/1KG/ref_gatk
   - preporcess_bert.py
   - preprocess_data.py
 - /mnt/net1/jrchen/ECOLE_reproduction/ECOLE_Training/
 
 ### 病原数据检测
+
+# Daily Report（2025-06-16）
+
+## 🔧 V2Ray info
+
+vless://f0fa77d5-8238-48f9-a453-397a3a6b0d5f@65.20.99.253:7331?security=reality&alpn=null&encryption=none&pbk=zuTPtggbesvZ6Pj3aw4eZJg2SBYAPnpfQqIOriazxjQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#-65.20.99.253
